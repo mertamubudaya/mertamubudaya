@@ -5053,6 +5053,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Sprite.Cnds.IsAnimPlaying,
 		C3.Plugins.Sprite.Cnds.IsOverlapping,
 		C3.Plugins.iframe.Acts.SetPos,
+		C3.Plugins.iframe.Acts.NavigateURL,
 		C3.Plugins.Touch.Cnds.IsInTouch,
 		C3.Plugins.Touch.Exps.X,
 		C3.Plugins.Touch.Exps.Y,
@@ -5060,7 +5061,6 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Sprite.Cnds.OnCollision,
 		C3.Plugins.System.Cnds.Else,
 		C3.Plugins.Arr.Exps.IndexOf,
-		C3.Plugins.iframe.Acts.NavigateURL,
 		C3.Plugins.Arr.Acts.SetXY,
 		C3.Plugins.Sprite.Acts.SetX,
 		C3.Plugins.Spritefont2.Cnds.CompareInstanceVar,
@@ -5502,6 +5502,7 @@ self.C3_ExpressionFuncs = [
 		},
 		() => "warna",
 		() => "motif",
+		() => "https://www.youtube.com/embed/sD5UGLBRB3I",
 		() => 1000,
 		() => "ungkap",
 		p => {
