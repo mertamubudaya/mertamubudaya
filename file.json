@@ -1,0 +1,505 @@
+{
+	"data" :
+		[
+			{
+				"frame": "1",
+				"kode_kartu": "1-2|4-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "2",
+				"kode_kartu": "2-3|4-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "3",
+				"kode_kartu": "4-1|5-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "4",
+				"kode_kartu": "1-3|3-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "5",
+				"kode_kartu": "1-1|2-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "6",
+				"kode_kartu": "4-2|4-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "7",
+				"kode_kartu": "2-3|2-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "8",
+				"kode_kartu": "4-3|4-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "9",
+				"kode_kartu": "4-3|2-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "10",
+				"kode_kartu": "4-2|3-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "11",
+				"kode_kartu": "1-2|1-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "12",
+				"kode_kartu": "2-3|5-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "13",
+				"kode_kartu": "5-3|3-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "14",
+				"kode_kartu": "5-2|4-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "15",
+				"kode_kartu": "2-2|5-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "16",
+				"kode_kartu": "5-2|5-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "17",
+				"kode_kartu": "2-2|3-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "18",
+				"kode_kartu": "2-2|2-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "19",
+				"kode_kartu": "1-2|5-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "20",
+				"kode_kartu": "3-1|1-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "21",
+				"kode_kartu": "5-2|1-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "22",
+				"kode_kartu": "2-2|3-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "23",
+				"kode_kartu": "5-2|4-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "24",
+				"kode_kartu": "1-1|1-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "25",
+				"kode_kartu": "2-1|3-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "26",
+				"kode_kartu": "1-3|5-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "27",
+				"kode_kartu": "5-1|2-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "28",
+				"kode_kartu": "3-3|2-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "29",
+				"kode_kartu": "5-1|5-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "30",
+				"kode_kartu": "2-3|3-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "31",
+				"kode_kartu": "3-1|4-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "32",
+				"kode_kartu": "1-2|2-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "33",
+				"kode_kartu": "4-3|4-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "34",
+				"kode_kartu": "3-3|5-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "35",
+				"kode_kartu": "4-2|5-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "36",
+				"kode_kartu": "4-2|1-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "37",
+				"kode_kartu": "4-2|2-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "38",
+				"kode_kartu": "1-3|2-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "39",
+				"kode_kartu": "1-1|5-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "40",
+				"kode_kartu": "1-3|2-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "41",
+				"kode_kartu": "4-2|3-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "42",
+				"kode_kartu": "2-2|1-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "43",
+				"kode_kartu": "4-1|1-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "44",
+				"kode_kartu": "3-2|3-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "45",
+				"kode_kartu": "1-2|3-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "46",
+				"kode_kartu": "1-2|1-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "47",
+				"kode_kartu": "5-1|1-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "48",
+				"kode_kartu": "4-2|5-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "49",
+				"kode_kartu": "4-1|3-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "50",
+				"kode_kartu": "1-3|3-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "51",
+				"kode_kartu": "4-3|2-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "52",
+				"kode_kartu": "4-3|2-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "53",
+				"kode_kartu": "5-3|4-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "54",
+				"kode_kartu": "4-3|3-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "55",
+				"kode_kartu": "3-2|2-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "56",
+				"kode_kartu": "1-1|3-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "57",
+				"kode_kartu": "2-3|1-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "58",
+				"kode_kartu": "2-3|1-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "59",
+				"kode_kartu": "3-2|4-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "60",
+				"kode_kartu": "3-2|3-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "61",
+				"kode_kartu": "3-2|4-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "62",
+				"kode_kartu": "5-3|2-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "63",
+				"kode_kartu": "2-3|2-1",
+				"ext_links": "https://www.youtube.com/embed/RfZuycKAee4"
+			},
+			{
+				"frame": "64",
+				"kode_kartu": "5-2|2-1",
+				"ext_links": "https://www.youtube.com/embed/JhH6SLBYqIE"
+			},
+			{
+				"frame": "65",
+				"kode_kartu": "3-2|3-3",
+				"ext_links": "https://www.youtube.com/embed/8_XFL2j23jw"
+			},
+			{
+				"frame": "66",
+				"kode_kartu": "2-3|1-3",
+				"ext_links": "https://www.youtube.com/embed/EPAIJrsHva4"
+			},
+			{
+				"frame": "67",
+				"kode_kartu": "2-1|4-3",
+				"ext_links": "https://www.youtube.com/embed/K3ldBodbeuA"
+			},
+			{
+				"frame": "68",
+				"kode_kartu": "3-1|2-1",
+				"ext_links": "https://www.youtube.com/embed/igjZFE9Rckk"
+			},
+			{
+				"frame": "69",
+				"kode_kartu": "3-3|1-3",
+				"ext_links": "https://www.youtube.com/embed/cWyUxTFyZ1Y"
+			},
+			{
+				"frame": "70",
+				"kode_kartu": "1-3|1-2",
+				"ext_links": "https://www.youtube.com/embed/5bdDXnd3StI"
+			},
+			{
+				"frame": "71",
+				"kode_kartu": "4-1|2-2",
+				"ext_links": "https://www.youtube.com/embed/eVCbAIHEDy0"
+			},
+			{
+				"frame": "72",
+				"kode_kartu": "1-2|4-3",
+				"ext_links": "https://www.youtube.com/embed/sD5UGLBRB3I"
+			},
+			{
+				"frame": "73",
+				"kode_kartu": "1-1|1-3",
+				"ext_links": "https://www.youtube.com/embed/UYi_F21fZ_s"
+			},
+			{
+				"frame": "74",
+				"kode_kartu": "3-3|1-1",
+				"ext_links": "https://www.youtube.com/embed/emdOKu9mP3Q"
+			},
+			{
+				"frame": "75",
+				"kode_kartu": "4-1|2-1",
+				"ext_links": "https://www.youtube.com/embed/QSlcclmMZXg"
+			},
+			{
+				"frame": "76",
+				"kode_kartu": "2-2|4-3",
+				"ext_links": "https://www.youtube.com/embed/FnIAUOmhKpw"
+			},
+			{
+				"frame": "77",
+				"kode_kartu": "5-2|5-1",
+				"ext_links": "https://www.youtube.com/embed/MQJJzOsBf5k"
+			},
+			{
+				"frame": "78",
+				"kode_kartu": "5-2|3-2",
+				"ext_links": "https://www.youtube.com/embed/dTYzYOdh8P8"
+			},
+			{
+				"frame": "79",
+				"kode_kartu": "4-1|1-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "80",
+				"kode_kartu": "3-2|1-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "81",
+				"kode_kartu": "4-2|2-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "82",
+				"kode_kartu": "4-3|1-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "83",
+				"kode_kartu": "2-2|1-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "84",
+				"kode_kartu": "3-3|2-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "85",
+				"kode_kartu": "2-1|1-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "86",
+				"kode_kartu": "1-3|1-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "87",
+				"kode_kartu": "2-3|4-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "88",
+				"kode_kartu": "1-1|1-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "89",
+				"kode_kartu": "1-2|5-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "90",
+				"kode_kartu": "2-3|2-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "91",
+				"kode_kartu": "2-3|3-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "92",
+				"kode_kartu": "2-1|3-1",
+				"ext_links": "-"
+			},
+			{
+				"frame": "93",
+				"kode_kartu": "5-1|3-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "94",
+				"kode_kartu": "4-3|3-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "95",
+				"kode_kartu": "4-2|4-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "96",
+				"kode_kartu": "1-3|5-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "97",
+				"kode_kartu": "2-1|4-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "98",
+				"kode_kartu": "3-2|5-2",
+				"ext_links": "-"
+			},
+			{
+				"frame": "99",
+				"kode_kartu": "3-3|5-3",
+				"ext_links": "-"
+			},
+			{
+				"frame": "100",
+				"kode_kartu": "4-1|5-3",
+				"ext_links": "-"
+			}
+		]
+}
